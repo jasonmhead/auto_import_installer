@@ -10,6 +10,7 @@ import auto_import_installer
 `imports_installed = auto_import_installer.install_imports(current_file_path)`
 
 modules = install_imports('my_file.py')
+```
 
 # Parameters
 
