@@ -35,8 +35,8 @@ Append this to the top of your file to attempt automatic import installs
 `imports_installed = install_imports(current_file_path)`
 
 Note:\
-This code was ChatGPT generated with the following instructions:\
-This could have been be streamlined, but this was the genesis.\
+This code was ChatGPT generated with the following instructions within the thread:\
+This could have been be streamlined, but this was the genesis.
 
 ```
 create a python function that will check a .py file for all imports and return an array of imported modules
